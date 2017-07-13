@@ -1,8 +1,9 @@
-
+////////// Do not remove below! //////////
 // initates pym!
 var pymChild = new pym.Child();
+////////// Do not remove above! //////////
 
-// Initial Script
+// Initial Script (remove below and replace)
 
 		var map = L.map('map', {
 			scrollWheelZoom: false
